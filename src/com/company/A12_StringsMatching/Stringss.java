@@ -218,7 +218,7 @@ class main{
 
 // (interview special) (also on leetcode 5) // dynamic programme needed
 
-// need to know some concepts of dynamic programing so this topic will be after some-time
+// need to know some concepts of dynamic programing 
 
 
 
